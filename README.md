@@ -5,7 +5,8 @@
       <a href='https://scholar.google.com/citations?user=A39S7JgAAAAJ&hl=en' style='text-decoration: none' >Xiantai Xiang</a><sup></sup>&emsp;
       <div align="center">
       <a href='https://arxiv.org/abs/2501.09720'><img src='https://img.shields.io/badge/arXiv-2501.09721-brown.svg?logo=arxiv&logoColor=white'></a>
-      <a href='https://huggingface.co/collections/Qingyun/lmmrotate-6780cabaf49c4e705023b8df'><img src='https://img.shields.io/badge/HuggingFace-Model-yellow.svg?logo=HuggingFace&logoColor=white'></a>
+      <a href='https://huggingface.co/WenshuaiLi/GeoReason'><img src='https://img.shields.io/badge/HuggingFace-Model-yellow.svg?logo=HuggingFace&logoColor=white'></a>
+      <a href='https://huggingface.co/datasets/WenshuaiLi/GeoReason-Bench'><img src='https://img.shields.io/badge/HuggingFace-Datasets-yellow.svg?logo=HuggingFace&logoColor=white'></a>
       </div>
     <p align='center'>
         If you find our work helpful, please consider giving us a ⭐!
@@ -36,3 +37,11 @@ conda create -n GeoReason python=3.10
 conda activate GeoReason
 pip install -r requirements.txt
 ```
+
+### Infer with GeoReason
+You can use `GeoReason_infer.py` to generate the answers to the questions.
+```bash
+python GeoReason_infer.py --model_path /path/to/model --dataset /path/to/dataset --image_path /path/to/image_path
+```
+
+## Citation
