@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">GEOREASON: ALIGNING THINKING AND ANSWERING IN REMOTE SENSING VISION-LANGUAGE MODELS VIA LOGICAL CONSISTENCY REINFORCEMENT LEARNING</h1>
   <p align="center">
-      <a href='https://scholar.google.com/citations?hl=en&user=TvsTun4AAAAJ' style='text-decoration: none' >Wenshuai Li</a><sup></sup>&emsp;
-      <a href='https://scholar.google.com/citations?user=A39S7JgAAAAJ&hl=en' style='text-decoration: none' >Xiantai Xiang</a><sup></sup>&emsp;
+      Wenshuai Li</a><sup></sup>&emsp;
+      Xiantai Xiang</a><sup></sup>&emsp;
       <div align="center">
       <a href='https://arxiv.org/abs/2501.09720'><img src='https://img.shields.io/badge/arXiv-2501.09721-brown.svg?logo=arxiv&logoColor=white'></a>
       <a href='https://huggingface.co/WenshuaiLi/GeoReason'><img src='https://img.shields.io/badge/HuggingFace-Model-yellow.svg?logo=HuggingFace&logoColor=white'></a>
