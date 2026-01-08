@@ -3,6 +3,7 @@
   <p align="center">
       Wenshuai Li</a><sup></sup>&emsp;
       Xiantai Xiang</a><sup></sup>&emsp;
+      Ben Niu</a><sup></sup>&emsp;
       <div align="center">
       <a href='https://arxiv.org/abs/2501.09720'><img src='https://img.shields.io/badge/arXiv-2501.09721-brown.svg?logo=arxiv&logoColor=white'></a>
       <a href='https://huggingface.co/WenshuaiLi/GeoReason'><img src='https://img.shields.io/badge/HuggingFace-Model-yellow.svg?logo=HuggingFace&logoColor=white'></a>
