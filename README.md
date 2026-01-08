@@ -46,3 +46,12 @@ python GeoReason_infer.py --model_path /path/to/model --dataset /path/to/dataset
 ```
 
 ## Citation
+@misc{li2026georeasonaligningthinkinganswering,
+      title={GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning}, 
+      author={Wenshuai Li and Xiantai Xiang and Zixiao Wen and Guangyao Zhou and Ben Niu and Feng Wang and Lijia Huang and Qiantong Wang and Yuxin Hu},
+      year={2026},
+      eprint={2601.04118},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.04118}, 
+}
