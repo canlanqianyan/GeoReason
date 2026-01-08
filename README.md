@@ -3,7 +3,13 @@
   <p align="center">
       Wenshuai Li</a><sup></sup>&emsp;
       Xiantai Xiang</a><sup></sup>&emsp;
+      Zixiao Wen</a><sup></sup>&emsp;
+      Guangyao Zhou</a><sup></sup>&emsp;
       Ben Niu</a><sup></sup>&emsp;
+      Feng Wang</a><sup></sup>&emsp;
+      Lijia Huang</a><sup></sup>&emsp;
+      Qiantong Wang</a><sup></sup>&emsp;
+      Yuxin Hu</a><sup></sup>&emsp;
       <div align="center">
       <a href='http://arxiv.org/abs/2601.04118'><img src='https://img.shields.io/badge/arXiv-2601.04118-brown.svg?logo=arxiv&logoColor=white'></a>
       <a href='https://huggingface.co/WenshuaiLi/GeoReason'><img src='https://img.shields.io/badge/HuggingFace-Model-yellow.svg?logo=HuggingFace&logoColor=white'></a>
